@@ -73,3 +73,76 @@ html, body {
 .head-image img {
     margin: auto;
 }
+.krang{
+    width: 1734.528px;
+height: 556.786px;
+flex-shrink: 0;
+background: #E5F2EF;
+margin-top: 111px;
+margin-left: 92px;
+}
+.phar{
+    position: absolute;
+    top: 158px;
+}
+.simp{
+    position: absolute;
+    top: 133px;
+    left: 250px;
+    width: 466px;
+}
+.fut{
+    position: absolute;
+    top: 300px;
+    left: 822px;
+}
+.fut2{
+    position: absolute;
+    top: 300px;
+    left: 1005px;
+    width: 200px;
+}
+.fut3{
+    position: absolute;
+    top: 300px;
+    left: 1240px;
+    width: 500px;
+}
+.input{
+    width: 325.698px;
+height: 60px;
+flex-shrink: 0;
+background: #FFF;
+}
+.quti{
+    position: absolute;
+    top: 170px;
+    left: 0px;
+    display: flex;
+padding: 17px 42px;
+align-items: flex-start;
+gap: 10px;
+background: #0152A8;
+height: 10px;
+width: 130px;
+}
+.rasm1{
+    position: absolute;
+    top: 10px;
+    left: 1000px;
+}
+.text2{
+    position: absolute;
+    top: 5px;
+    left: 1050px;
+}
+.rasm2{
+    position: absolute;
+    top: 10px;
+    left: 1200px;
+}
+.text3{
+    position: absolute;
+    top: 5px;
+    left: 1250px;
+}
