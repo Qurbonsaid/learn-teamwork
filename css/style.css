@@ -27,3 +27,34 @@ header{
     margin-left: 20px;
     text-transform:capitalize;
 }
+html, body {
+    height: 100%;
+}
+
+#home {
+    display: flex;
+    height: 100%;
+    background-color: lightskyblue;
+}
+
+#home .headings {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+#home .head-image {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.head-image img {
+    margin: auto;
+}
