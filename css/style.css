@@ -1,21 +1,23 @@
 header{
     width: 100%;
-    height: auto;
-
+    height: 700px;
+    background-image: url(../images/space.jpg);
+    background-repeat: no-repeat;
 }
 .nav{
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
-    padding: 0px 40px;
+    padding: 0px 100px;
 }
 
 .logo h1{
 
-    font-size: 40px;
+    font-size: 60px;
+    color: white;
 }
 .links ul{
-    margin-top: 44px;
+    margin-top: 75px;
     display: flex;
 }
 .links ul li{
@@ -26,6 +28,19 @@ header{
     font-size: 20px;
     margin-left: 20px;
     text-transform:capitalize;
+    color: white;
+}
+.text{
+    width: 600px;
+    margin-left: 150px;
+}
+.text h1{
+    font-size: 60px;
+    color: white;
+}
+.text p{
+    font-size: 20px;
+    color: white;
 }
 html, body {
     height: 100%;
